@@ -32,9 +32,7 @@ Ball Dodger is a game that tests a users reaction time.  The user controls a rec
 
 
 ## Concurrent Synchronous State Machines
-<p align="center">
 ![alt text](photos/Player_SM.png)
-</p>
 
 ![alt text](photos/Ball_SM.png)
 
