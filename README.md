@@ -5,6 +5,8 @@
 
 Ball Dodger is a game that tests a users reaction time.  The user controls a rectangle using a joystick.  He/She can move up, down, left, or right.  The objective of the game is to dodge the falling balls/projectiles.  As time proceeds, the balls fall more frequently.  If the player is hit by a falling ball, he loses.  The final score is relative to how many balls have been evaded.
 
+<p align="center"><img src="photos/demo.png" /></p>
+
 [Project Demo Link](https://www.youtube.com/watch?v=HbFBdjbKJ-g)
 
 
